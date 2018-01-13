@@ -1,0 +1,4 @@
+openPlayer:white
+colorTool1:white
+colorTool2:black
+boardSize:4
